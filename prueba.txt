@@ -1,0 +1,81 @@
+<Tipo> 
+	<Operacion= SUMA>
+		<Numero> 2500 </Numero>
+		<Numero> 102 </Numero>		
+	</Operacion>
+	<Operacion= SUMA>
+		<Numero> 4.5 </Numero>
+		<Numero> 5.32 </Numero>
+		<Operacion= RESTA>
+			<Numero> 1 </Numero>
+			<Operacion= MULTIPLICACION>
+				<Numero> 5 </Numero>
+			</Operacion>
+		</Operacion>
+	</Operacion>
+	<Operacion= RESTA>
+		<Numero> 84 </Numero>
+		<Numero> 33.7 </Numero>
+	</Operacion> 
+	<Operacion= MULTIPLICACION>
+		<Numero> 5 </Numero>
+		<Numero> 7 </Numero>
+	</Operacion>
+	<Operacion= DIVISION>
+		<Numero> 25 </Numero>
+		<Numero> 5</Numero>
+	</Operacion>
+	<Operacion= POTENCIA>
+		<Numero> 3 </Numero>
+		<Numero> 2 </Numero>
+	</Operacion>
+	<Operacion= RAIZ>
+		<Numero> 9 <Numero>
+	</Operacion>
+	<Operacion= INVERSO>
+		<Numero> 123 <Numero>
+	</Operacion>
+	<Operacion= SENO>
+		<Numero> 25 <Numero>
+	</Operacion>
+	<Operacion= COSENO>
+		<Numero> 90 <Numero>
+	</Operacion>
+	<Operacion= TANGENTE>
+		<Numero> 60 <Numero>
+	</Operacion>
+	<Operacion= MULTIPLICACION>
+		<Numero> 50 </Numero>
+		<Numero> 10 </Numero>
+		<Operacion= DIVISION>
+			<Numero> 100 </Numero>
+		</Operacion>
+		<Numero> 2 </Numero>
+	</Operacion>
+	<Operacion= MOD>
+		<Numero> 10 </Numero>
+		<Numero> 2 </Numero>
+	</Operacion>
+</Tipo>
+<Texto>
+Archivo simple de pruebas aritmeticas de proyecto 1
+LFP A+
+</Texto>
+<Funcion=ESCRIBIR>
+	<Titulo>Operaciones aritmeticas </Titulo>
+	<Descripcion> [Texto] </Descripcion>
+	<Contenido> [Tipo] </Contenido>	
+</Funcion>
+<Estilo>
+		<Titulo Color=ROJO Tamanio=6/>
+		<Descripcion Color=VERDE Tamanio=4/>
+		<Contenido Color=AZUL Tamanio=2>
+</Estilo>
+
+
+
+
+
+
+
+
